@@ -1,4 +1,5 @@
 bin/
 lib/
 include/
+node_modules/
 pyvenv.cfg
